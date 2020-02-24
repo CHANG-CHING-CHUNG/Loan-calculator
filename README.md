@@ -1,3 +1,3 @@
 # Loan-calculator
 
-Small tool for calculating interests
+Small tool for calculating interest
